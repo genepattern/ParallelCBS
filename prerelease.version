@@ -1,3 +1,5 @@
+#updated after building 0.7
+#Wed, 26 Sep 2012 10:47:39 -0400
 #updated after building 0.6
 #Fri, 21 Sep 2012 13:43:05 -0400
 #updated after building 0.5
@@ -10,4 +12,4 @@
 #Tue, 11 Sep 2012 14:26:24 -0400
 #updated after building 0.1
 #Wed, 05 Sep 2012 15:27:31 -0400
-prerelease.number=7
+prerelease.number=8
