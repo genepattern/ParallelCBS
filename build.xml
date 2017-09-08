@@ -2,7 +2,7 @@
 
 <project basedir="." name="ParallelCBS">
 
-	<property name="dirOffset" value="../../" />
+	<property name="dirOffset" value="../common_module_code" />
 	<import file="${dirOffset}/commontargets.xml" />
 
 
