@@ -14,6 +14,7 @@
               <exclude name="prerelease.version"/>
               <exclude name="release.version"/>
               <exclude name="build.xml"/>
+              <exclude name="ParallelCBS.doc"/>
             </fileset>
         </zip>
 
