@@ -15,6 +15,7 @@
               <exclude name="release.version"/>
               <exclude name="build.xml"/>
               <exclude name="ParallelCBS.doc"/>
+              <exclude name="manifest_v1"
             </fileset>
         </zip>
 
