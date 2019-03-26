@@ -1,0 +1,26 @@
+version: 1
+modules:
+    0:
+        type: module
+        top: 119px
+        left: 14px
+    1:
+        type: module
+        top: 230px
+        left: 240px
+    2:
+        type: module
+        top: 233px
+        left: 482px
+    3:
+        type: module
+        top: 231px
+        left: 756px
+    4:
+        type: module
+        top: 231px
+        left: 1053px
+files:
+    0:
+        type: doc
+        name: ParallelCBS.pdf
