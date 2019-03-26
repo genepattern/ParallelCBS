@@ -1,7 +1,7 @@
 #ParallelCBS
 #Tue Mar 26 22:43:14 UTC 2019
 JVMLevel=1.5
-LSID=urn:lsid:broad.mit.edu:cancer.software.genepattern.module.pipeline:00019:2
+LSID=urn:lsid:broad.mit.edu:cancer.software.genepattern.module.pipeline:00019:4
 author=Marc-Danie Nazaire, Gordon Sakena, Barbara Hill;Broad Institute
 categories=pipeline
 commandLine=<java>  -Dgenepattern.properties\=<resources> -DLSID\=<LSID> -DPIPELINE_ARG.StopAfterTask\=<PIPELINE_ARG.StopAfterTask> -DGenePatternURL\=<GenePatternURL>  org.genepattern.server.webapp.RunPipelineSoap <GenePatternURL>getPipelineModel.jsp?name\=<LSID>&userid\=<userid> <userid> ConvertLineEndings1.input.filename\=<ConvertLineEndings1.input.filename> ConcatenateFilelist5.output.filename\=<ConcatenateFilelist5.output.filename>
